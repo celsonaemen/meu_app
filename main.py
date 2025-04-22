@@ -1,0 +1,1 @@
+print("Fala, meu patrão!")
