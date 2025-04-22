@@ -1,1 +1,0 @@
-print("Fala, meu patrão!")
